@@ -247,3 +247,15 @@ footer {
     break-after: avoid;
   }
 }
+@media (max-width: 768px) {
+  .hero {
+    text-align: center;
+    justify-items: center;
+  }
+  .photo {
+    width: 100%;
+    max-width: 340px;
+    justify-self: center;
+    margin-inline: auto;
+  }
+}
