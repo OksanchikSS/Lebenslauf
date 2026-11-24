@@ -148,7 +148,7 @@ h1 {
 .photo {
   display: block;
   width: 100%;
-  max-width: 310px;
+  max-width: 420px;
   height: auto;
   justify-self: end;
   border: 5px solid var(--paper);
